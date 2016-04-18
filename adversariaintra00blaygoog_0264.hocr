@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./adversariaintra00blaygoog_0264.png"; bbox 0 0 3446 5258; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 358 1837 1248 1972">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 358 1837 1248 1972">
+     <span class='ocr_line' id='line_1_1' title="bbox 358 1837 1248 1972; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 358 1837 609 1972; x_wconf 84' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_2' title='bbox 661 1837 1248 1972; x_wconf 84' lang='lat' dir='ltr'><strong>POSTERIOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 266 2198 1346 2261">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 266 2198 1346 2261">
+     <span class='ocr_line' id='line_1_2' title="bbox 266 2198 1346 2261; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 266 2199 484 2260; x_wconf 80' lang='lat' dir='ltr'><strong>SECUNDUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 514 2200 702 2260; x_wconf 79' lang='lat' dir='ltr'><strong>ALTERAM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 731 2199 1058 2261; x_wconf 77' lang='lat' dir='ltr'><strong>FRAGMENTORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1086 2198 1346 2260; x_wconf 81' lang='lat' dir='ltr'><strong>TRAGICORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 538 2396 1063 2472">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 538 2396 1063 2472">
+     <span class='ocr_line' id='line_1_3' title="bbox 538 2396 1063 2472; baseline 0 -16"><span class='ocrx_word' id='word_1_7' title='bbox 538 2396 761 2457; x_wconf 80' lang='lat' dir='ltr'><strong>EDITIONEM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 788 2397 1063 2472; x_wconf 74' lang='lat' dir='ltr'><strong>NAUOKJANAM,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 625 2571 976 2640">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 625 2571 976 2640">
+     <span class='ocr_line' id='line_1_4' title="bbox 625 2571 976 2640; baseline 0 -15"><span class='ocrx_word' id='word_1_9' title='bbox 625 2571 686 2626; x_wconf 75' lang='lat' dir='ltr'>svo.</span> <span class='ocrx_word' id='word_1_10' title='bbox 723 2571 874 2640; x_wconf 71' lang='lat' dir='ltr'>mpsnffl,</span> <span class='ocrx_word' id='word_1_11' title='bbox 901 2571 976 2626; x_wconf 80' lang='lat'>1889.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1728 5258">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1728 5258">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1728 5258; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1728 5258; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
